@@ -2,7 +2,7 @@ https://zerojudge.tw/ShowProblem?problemid=d784
 
 看到可愛的妹子在社團問問題突然就燃起了練習的慾望(真的啦)。應該是貪心算法(不確定),我記得幾百年前在中女中寫過一題股海浮沉跟這個很像。
 
-中女中題目 ▶ http://www.tcgs.tc.edu.tw:1218/ShowProblem?problemid=b026
+原始題目 ▶ http://www.tcgs.tc.edu.tw:1218/ShowProblem?problemid=b026
 
 我的解法 ▶ https://github.com/CalvinWan0101/GreenJudge/blob/master/b026-%E8%82%A1%E6%B5%B7%E6%B5%AE%E6%B2%89.cpp
 
