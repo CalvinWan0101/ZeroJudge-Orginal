@@ -12,3 +12,5 @@
 
 ▼ 這一題來自社團大佬的解答(菜味濃厚的我只會暴力解OAO) ▼
 ![image](https://github.com/CalvinWan0101/ZeroJudge-Orginal/blob/master/d784-%20%E4%B8%80%E3%80%81%E9%80%A3%E7%BA%8C%E5%85%83%E7%B4%A0%E7%9A%84%E5%92%8C/%E6%88%AA%E5%9C%96.png)
+
+- red測試
