@@ -1,7 +1,13 @@
 https://zerojudge.tw/ShowProblem?problemid=d784
+
 看到可愛的妹子在社團問問題
+
 emmmmmmmmm我只是想練習啦(真的啦)
+
 這個叫貪心算法嗎？？？
+
 其實我不確定誒誒誒
+
 卡一個到時候學測完在回來看好了
+
 ![image](https://imgur.com/a/aj6xFha)
