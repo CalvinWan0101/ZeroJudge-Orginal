@@ -1,4 +1,5 @@
 原始題目 ▶ https://zerojudge.tw/ShowProblem?problemid=d784
+
 社團貼文 ▶ https://www.facebook.com/photo?fbid=1071703873259347&set=gm.701080893782076
 
 看到可愛的妹子在社團問問題突然就燃起了練習的慾望(真的啦)。應該是貪心算法(不確定),我記得幾百年前在中女中解題系統寫過一題股海浮沉跟這個很像。
